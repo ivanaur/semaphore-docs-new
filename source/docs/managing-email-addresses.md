@@ -27,3 +27,5 @@ There can be only one "Primary email address" per account. You have the option t
 change it by clicking on "set as primary" button on the right side of your verified
 additional email address. Email address cannot be deleted while it is used
 as primary.
+
+### Verifying email
